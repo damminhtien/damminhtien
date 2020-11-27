@@ -15,3 +15,7 @@ Some works made by me (except the pins below):
 * [damminhtien/FLY-CHAT :arrow_upper_right:](https://github.com/damminhtien/FLY-CHAT) Chat and play tic-tac-toe with your friends - nodejs, socketio
 * [damminhtien/theses_management :arrow_upper_right:](https://github.com/damminhtien/theses_management) Theses management system 2018 - nodejs, postgredb
 * [damminhtien/Newtab_MusicVisualization :arrow_upper_right:](https://github.com/damminhtien/Newtab_MusicVisualization) Music bar in new tab (chrome extension) - javascript
+
+<a href="https://www.linkedin.com/in/damminhtien" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.hackerrank.com/damminhtien" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white"/></a>
+<a href="https://www.facebook.com/bkfateam" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
