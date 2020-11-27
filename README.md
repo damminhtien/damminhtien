@@ -3,8 +3,6 @@
   
 #### <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=damminhtien&show_icons=true&include_all_commits=true&theme=buefy" alt="damminhtien's github stats" />
 
-![damminhtien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=damminhtien&show_icons=true)
-
 Some works made by me (except the pins below):
 * [BKFA/expressMVC :arrow_upper_right:](https://github.com/BKFA/expressMVC) Templating expressJS and Dockering - <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>
 * [Contributor of shervinea/cheatsheet-translation](https://github.com/shervinea/cheatsheet-translation) Translation of VIP cheatsheets for Machine Learning Deep Learning, and Artificial Intelligence CS229
