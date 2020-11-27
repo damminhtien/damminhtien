@@ -8,6 +8,7 @@
 Some works made by me (except the pins below):
 * [BKFA/expressMVC :arrow_upper_right:](https://github.com/BKFA/expressMVC) Templating expressJS and Dockering - nodejs, expressjs, mongodb
 * [damminhtien/awesome-semantic-segmentation :arrow_upper_right:](https://github.com/damminhtien/awesome-semantic-segmentation) awesome-semantic-segmentation - list of awesome things around semantic segmentation
+* [Contributor of shervinea/cheatsheet-translation](https://github.com/shervinea/cheatsheet-translation) Translation of VIP cheatsheets for Machine Learning Deep Learning, and Artificial Intelligence CS229
 * [damminhtien/react-moduleless-boilerplate :arrow_upper_right:](https://github.com/damminhtien/react-moduleless-boilerplate) An easily scalable, module-less boilerplate with the best dX and a focus on best practices - reactjs
 * [damminhtien/Py_Algo :arrow_upper_right:](https://github.com/damminhtien/Py_Algo) Implementations of machine learning algorimths - python
 * [damminhtien/github_user_analysis :arrow_upper_right:](https://github.com/damminhtien/github_user_analysis) Use GitHub’s own API to draw insights - python
