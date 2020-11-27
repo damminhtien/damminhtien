@@ -5,7 +5,7 @@
 
 ![damminhtien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=damminhtien&show_icons=true)
 
-Some works made by me (except the pin belows):
+Some works made by me (except the pins below):
 * [BKFA/expressMVC :arrow_upper_right:](https://github.com/BKFA/expressMVC) Templating expressJS and Dockering - nodejs, expressjs, mongodb
 * [damminhtien/awesome-semantic-segmentation :arrow_upper_right:](https://github.com/damminhtien/awesome-semantic-segmentation) awesome-semantic-segmentation - list of awesome things around semantic segmentation
 * [damminhtien/react-moduleless-boilerplate :arrow_upper_right:](https://github.com/damminhtien/react-moduleless-boilerplate) An easily scalable, module-less boilerplate with the best dX and a focus on best practices - reactjs
