@@ -7,7 +7,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damminhtien&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p>
 
-Highlight projects made by me (except the pins below):
+Highlight projects:
 * [BKFA/expressMVC :arrow_upper_right:](https://github.com/BKFA/expressMVC) Templating expressJS and Dockering - <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>
 * [Contributor of shervinea/cheatsheet-translation :arrow_upper_right:](https://github.com/shervinea/cheatsheet-translation) Translation of VIP cheatsheets for Machine Learning Deep Learning, and Artificial Intelligence CS229
 * [damminhtien/awesome-semantic-segmentation :arrow_upper_right:](https://github.com/damminhtien/awesome-semantic-segmentation) awesome-semantic-segmentation - list of awesome things around semantic segmentation
@@ -18,6 +18,13 @@ Highlight projects made by me (except the pins below):
 * [damminhtien/FLY-CHAT :arrow_upper_right:](https://github.com/damminhtien/FLY-CHAT) Chat and play tic-tac-toe with your friends - <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white"/>
 * [damminhtien/theses_management :arrow_upper_right:](https://github.com/damminhtien/theses_management) Theses management system 2018 - <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square"/>
 * [damminhtien/Newtab_MusicVisualization :arrow_upper_right:](https://github.com/damminhtien/Newtab_MusicVisualization) Music bar in new tab (chrome extension) - <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+
+Highlight articles:
+* [NodeJS architecture concept p1](https://www.facebook.com/notes/680081102909840/)
+* [NodeJS architecture concept p2](https://www.facebook.com/notes/394750398356747/)
+* [Developer Roadmap 2019](https://www.facebook.com/notes/255497452550795/)
+* [Các trình thông dịch Javascript và V8 engine: tìm hiểu và ứng dụng vào việc tối ưu mã nguồn.](https://www.facebook.com/notes/931727997317538/)
+* [Docker (P1)](https://www.facebook.com/notes/339691677127316/)
 
 <a href="https://www.linkedin.com/in/damminhtien" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.hackerrank.com/damminhtien" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white"/></a>
