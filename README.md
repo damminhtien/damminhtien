@@ -7,7 +7,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damminhtien&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p>
 
-Highlight projects excluded pin projects:
+Noticeable projects excluded pin projects:
 * Contributor/Translator of [Stanford CS229 - Machine Learning](https://stanford.edu/~shervine/l/vi/teaching/cs-229/cheatsheet-supervised-learning) |  [Stanford CS230 - Deep Learning](https://stanford.edu/~shervine/l/vi/teaching/cs-230/cheatsheet-convolutional-neural-networks) 
 * [damminhtien/react-moduleless-boilerplate :arrow_upper_right:](https://github.com/damminhtien/react-moduleless-boilerplate) An easily scalable, module-less boilerplate with the best dX and a focus on best practices - <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=flat-square&logo=material-ui&logoColor=white"/>
 * [BKFA/express-mvc :arrow_upper_right:](https://github.com/BKFA/express-mvc) Templating expressJS and Dockering - <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>
@@ -23,7 +23,7 @@ Highlight projects excluded pin projects:
 * [damminhtien/theses-management :arrow_upper_right:](https://github.com/damminhtien/theses-management) Theses management system 2018 - <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square"/>
 * [damminhtien/newtab-music-visualization :arrow_upper_right:](https://github.com/damminhtien/newtab-music-visualization) Music bar in new tab (chrome extension) - <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
 
-Highlight articles:
+Noticeable articles in Vietnamese:
 * [NodeJS architecture concept p1](https://www.facebook.com/notes/680081102909840/)
 * [NodeJS architecture concept p2](https://www.facebook.com/notes/394750398356747/)
 * [Developer Roadmap 2019](https://www.facebook.com/notes/255497452550795/)
