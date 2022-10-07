@@ -24,6 +24,9 @@ Noticeable projects excluded pin projects:
 * [damminhtien/theses-management :arrow_upper_right:](https://github.com/damminhtien/theses-management) Theses management system 2018 - <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square"/>
 * [damminhtien/newtab-music-visualization :arrow_upper_right:](https://github.com/damminhtien/newtab-music-visualization) Music bar in new tab (chrome extension) - <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
 
+Publication:
+* Ha Manh Le*, Tien Minh Dam*, Hung Viet Bui, Tiem Manh Nguyen and Tuan Anh Nguyen. Two-level obstacles avoidance method for manned aircraft. *International Conference on Information and Communication Technology Convergence (ICTC)*, 2022. [[Slide](https://github.com/damminhtien/ICTC2022)]
+
 Noticeable articles in Vietnamese:
 * [NodeJS architecture concept p1](https://www.facebook.com/notes/680081102909840/)
 * [NodeJS architecture concept p2](https://www.facebook.com/notes/394750398356747/)
