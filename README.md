@@ -7,7 +7,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damminhtien&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p>
 
-Noticeable projects excluded pin projects:
+Featuring projects excluded the pin ones:
 * Contributor/Translator of [Stanford CS229 - Machine Learning](https://stanford.edu/~shervine/l/vi/teaching/cs-229/cheatsheet-supervised-learning) |  [Stanford CS230 - Deep Learning](https://stanford.edu/~shervine/l/vi/teaching/cs-230/cheatsheet-convolutional-neural-networks) 
 * [damminhtien/machine-learning-ibm :arrow_upper_right:](https://github.com/damminhtien/machine-learning-ibm) IBM Machine Learning Professional Certificate @coursera
 * [damminhtien/react-moduleless-boilerplate :arrow_upper_right:](https://github.com/damminhtien/react-moduleless-boilerplate) An easily scalable, module-less boilerplate with the best dX and a focus on best practices - <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=flat-square&logo=material-ui&logoColor=white"/>
@@ -27,7 +27,7 @@ Noticeable projects excluded pin projects:
 Publication:
 * Ha Manh Le*, Tien Minh Dam*, Hung Viet Bui, Tiem Manh Nguyen and Tuan Anh Nguyen. Two-level obstacles avoidance method for manned aircraft. *International Conference on Information and Communication Technology Convergence (ICTC)*, 2022. [[Slide](https://github.com/damminhtien/ICTC2022)]
 
-Noticeable articles in Vietnamese:
+Featuring articles in Vietnamese:
 * [NodeJS architecture concept p1](https://www.facebook.com/notes/680081102909840/)
 * [NodeJS architecture concept p2](https://www.facebook.com/notes/394750398356747/)
 * [Developer Roadmap 2019](https://www.facebook.com/notes/255497452550795/)
