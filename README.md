@@ -6,6 +6,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damminhtien&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damminhtien&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p>
+<p>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=damminhtien&hide_border=true"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=damminhtien&theme=nord"/>
+</p>
+ 
 
 Featuring projects excluded the pin ones:
 * Contributor/Translator of [Stanford CS229 - Machine Learning](https://stanford.edu/~shervine/l/vi/teaching/cs-229/cheatsheet-supervised-learning) |  [Stanford CS230 - Deep Learning](https://stanford.edu/~shervine/l/vi/teaching/cs-230/cheatsheet-convolutional-neural-networks) 
