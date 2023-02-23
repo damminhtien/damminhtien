@@ -8,7 +8,7 @@
 </p>
 <p>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=damminhtien&hide_border=true"/>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=damminhtien&theme=nord"/>
+  <img height="180em" width="450em" src="https://github-profile-trophy.vercel.app/?username=damminhtien&theme=nord"/>
 </p>
  
 
