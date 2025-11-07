@@ -58,7 +58,7 @@
 
 * **T. M. Dam** et al., "Ar*: a Bounded Suboptimal Search algorithm using Conditional Node Re-expansion Policy," 2023 14th International Conference on Information and Communication Technology Convergence (ICTC), Jeju Island, Korea, Republic of, 2023, pp. 985-990, doi: 10.1109/ICTC58733.2023.10393240. 🌟 Best Paper Award (Main Track) [[Implementation](https://github.com/damminhtien/ReExpAStar)]
 
-* M. H. Le*, **M. T. Dam***, V. H. Bui, M. T. Nguyen and A. T. Nguyen, "Two level obstacles avoidance method for manned aircrafts," 2022 13th International Conference on Information and Communication Technology Convergence (ICTC), Jeju Island, Korea, Republic of, 2022, pp. 1552-1556, doi: 10.1109/ICTC55196.2022.9952388. keywords: {Cloud computing;Heuristic algorithms;Buildings;Cost function;Information and communication technology;Object recognition;Aircraft manufacture;flight route builder;obstacles avoidance;turn angle},. [[Slide](https://github.com/damminhtien/ICTC2022)]
+* M. H. Le*, **M. T. Dam***, V. H. Bui, M. T. Nguyen and A. T. Nguyen, "Two level obstacles avoidance method for manned aircrafts," 2022 13th International Conference on Information and Communication Technology Convergence (ICTC), Jeju Island, Korea, Republic of, 2022, pp. 1552-1556, doi: 10.1109/ICTC55196.2022.9952388. [[Slide](https://github.com/damminhtien/ICTC2022)]
 
 ### 📰 Featuring articles in Vietnamese:
 * [NodeJS architecture concept p1](https://www.facebook.com/notes/680081102909840/)
