@@ -50,7 +50,7 @@
 * [damminhtien/machine-learning-in-production-course-notes :arrow_upper_right:](https://github.com/damminhtien/machine-learning-in-production-course-notes) Machine Learning in Production
 
 ### 📚 Publications:
-* Truong, L.V., **Dam, T.M.**, Nguyen, T.A., Nguyen, L.T.T., Dinh, D.T. (2025). SOPMOA: Shared‑Open Parallelism for High‑Performance Multi‑Objective Pathfinding. In: Computational Science – ICCS 2025, LNCS 15906. doi:10.1007/978‑3‑031‑97635‑3_36
+* Truong, L.V., **Dam, T.M.**, Nguyen, T.A., Nguyen, L.T.T., Dinh, D.T. (2025). SOPMOA: Shared‑Open Parallelism for High‑Performance Multi‑Objective Pathfinding. In: Computational Science – ICCS 2025, LNCS 15906. doi:10.1007/978‑3‑031‑97635‑3_36 [[Paper, Poster, Implementation](https://github.com/damminhtien/SOPMOA)]
 
 * **Dam, T.M.**, Truong, L.V. A Generalized Framework for Multi-objective-based Constraint Handling Technique. Int. J. Control Autom. Syst. 22, 3240–3252 (2024). https://doi.org/10.1007/s12555-024-0445-8
 
