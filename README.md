@@ -29,6 +29,9 @@
 
 
 ### :sparkles: Featuring engineering projects in spare time (excluded the pin ones below):
+* [SOPMOA*](https://github.com/damminhtien/SOPMOA) Multi-Objective Shortest Path (MOSP) algorithm with parallelism <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white"/>
+* [A*r](https://github.com/damminhtien/ReExpAStar) Weighted A* with Conditional Re-expansion (CR), NR, AR & ARA* <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/> 
+* [Potato quality detection](https://github.com/damminhtien/potato-quality-detection) Yolov8
 * [Compensation Data Analysis](https://www.kaggle.com/damminhtienchl/compensation-analysis) Analysis compensation data from VietTech
 * [damminhtien/awesome-semantic-segmentation :arrow_upper_right:](https://github.com/damminhtien/awesome-semantic-segmentation) awesome-semantic-segmentation - list of awesome things around semantic segmentation
 * [damminhtien/c-dsa :arrow_upper_right:](https://github.com/damminhtien/c-dsa) Code C/C++ examples by implement popular data-structures and algorithms, network programming, os <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white"/>
