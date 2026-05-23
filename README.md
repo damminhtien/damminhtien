@@ -11,14 +11,14 @@
 
 ### 📊 Github Stats
 <div height=600>
-<img height='150' src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damminhtien&theme=aura"/>
-<img height='150' src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=damminhtien&theme=aura"/>
-<img height='150' src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damminhtien&theme=aura"/>
-<img height='150' src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=damminhtien&theme=aura"/>
-<img height='150' src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=damminhtien&theme=aura"/>
+<img height='150' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damminhtien&theme=aura"/>
+<img height='150' src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=damminhtien&theme=aura"/>
+<img height='150' src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damminhtien&theme=aura"/>
+<img height='150' src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=damminhtien&theme=aura"/>
+<img height='150' src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=damminhtien&theme=aura"/>
 
-<img height='150' src="https://github-readme-stats.vercel.app/api?username=damminhtien&theme=blue_navy&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/>
-<img height='150' src="https://github-readme-streak-stats.herokuapp.com/?user=damminhtien&hide_border=true&theme=dark"/>
+<!-- <img height='150' src="https://github-readme-stats.vercel.app/api?username=damminhtien&theme=blue_navy&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/> -->
+<img height="150" src="https://streak-stats.demolab.com/?user=damminhtien&hide_border=true&theme=dark"/>
 </div>
 
 
@@ -29,7 +29,7 @@
 
 
 ### :sparkles: Featuring engineering projects in spare time (excluded the pin ones below):
-* [SOPMOA*](https://github.com/damminhtien/SOPMOA) Multi-Objective Shortest Path (MOSP) algorithm with parallelism <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white"/>
+* [SOPMOA*](https://github.com/damminhtien/SOPMOA) Multi-Objective Shortest Path (MOSP) algorithm with parallelism <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white"/>
 * [A*r](https://github.com/damminhtien/ReExpAStar) Weighted A* with Conditional Re-expansion (CR), NR, AR & ARA* <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/> 
 * [Potato quality detection](https://github.com/damminhtien/potato-quality-detection) Yolov8
 * [Compensation Data Analysis](https://www.kaggle.com/damminhtienchl/compensation-analysis) Analysis compensation data from VietTech
@@ -41,7 +41,7 @@
 * [RADA](https://rada.network/) Contributor - [NFT4CHARITY](https://github.com/rada-network/nft4charity) An open sourced blockchain project to help make Charity Campaigns BETTER.
 * [damminhtien/github-user-analysis :arrow_upper_right:](https://github.com/damminhtien/github-user-analysis) Use GitHub’s own API to draw insights - <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white"/>
 * [damminhtien/fly-chat :arrow_upper_right:](https://github.com/damminhtien/fly-chat) Chat and play tic-tac-toe with your friends - <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white"/>
-* [typescript.short :arrow_upper_right:](https://github.com/damminhtien/typescript.short) Short and simple bullet points about Typescript 💛 - <img src ="https://img.shields.io/badge/TypeScript-007ACC?style=flat-squar&logo=typescript&logoColor=white"/>
+* [typescript.short :arrow_upper_right:](https://github.com/damminhtien/typescript.short) Short and simple bullet points about Typescript 💛 - <img src ="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
 * [damminhtien/theses-management :arrow_upper_right:](https://github.com/damminhtien/theses-management) Theses management system 2018 - <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square"/>
 * [damminhtien/newtab-music-visualization :arrow_upper_right:](https://github.com/damminhtien/newtab-music-visualization) Music bar in new tab (chrome extension) - <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
 
