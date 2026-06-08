@@ -29,7 +29,7 @@
 
 
 ### :sparkles: Featuring engineering projects in spare time (excluded the pin ones below):
-* [MOSP](https://github.com/damminhtien/MOSP) The #1 Multi-Objective Shortest Path (MOSP) framework <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/> 
+* [MOSP](https://github.com/damminhtien/MOSP) The #1 Multi-Objective Shortest Path (MOSP) framework <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=openjdk&logoColor=white)
 * [A*r](https://github.com/damminhtien/ReExpAStar) Weighted A* with Conditional Re-expansion (CR), NR, AR & ARA* <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/> 
 * [Compensation Data Analysis](https://www.kaggle.com/damminhtienchl/compensation-analysis) Analysis compensation data from VietTech
 * [damminhtien/c-dsa :arrow_upper_right:](https://github.com/damminhtien/c-dsa) Code C/C++ examples by implement popular data-structures and algorithms, network programming, os <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white"/>
