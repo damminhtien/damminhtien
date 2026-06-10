@@ -9,22 +9,36 @@
 ![](https://komarev.com/ghpvc/?username=damminhtien&color=brightgreen&style=flat)
 
 
-### 📊 Github Stats
-<div height=600>
-<img height='150' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damminhtien&theme=aura"/>
-<img height='150' src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=damminhtien&theme=aura"/>
-<img height='150' src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damminhtien&theme=aura"/>
-<img height='150' src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=damminhtien&theme=aura"/>
-<img height='150' src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=damminhtien&theme=aura"/>
+### 📊 GitHub Stats
 
-<!-- <img height='150' src="https://github-readme-stats.vercel.app/api?username=damminhtien&theme=blue_navy&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/> -->
-<img height="150" src="https://streak-stats.demolab.com/?user=damminhtien&hide_border=true&theme=dark"/>
-</div>
-
-
-### :trophy: Github Awards
-<p align="left"> 
-	<img height='150' src="https://github-profile-trophy.vercel.app/?username=damminhtien&theme=nord"/>
+<p align="center">
+  <img
+   height="125px"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damminhtien&theme=aura"
+    alt="GitHub Profile Details"
+  />
+	<img
+	height="125px"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=damminhtien&theme=aura"
+    alt="GitHub Stats"
+  />
+</p>
+<p align="center">
+	<img
+    height="125px"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damminhtien&theme=aura"
+    alt="Top Languages by Repository"
+  />
+  <img
+    height="125px"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=damminhtien&theme=aura"
+    alt="Top Languages by Commit"
+  />
+  <img
+    height="125px"
+    src="https://streak-stats.demolab.com/?user=damminhtien&theme=aura&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 
