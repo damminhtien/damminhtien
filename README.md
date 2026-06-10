@@ -1,4 +1,5 @@
-### 👋 Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> ! I'm Tien Minh Dam, a Software Engineer.
+### Tien Minh Dam <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+Research Engineer working on data, search and software engineering.
 
 [![linked.in badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damminhtien)
 [![hackerrank badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/damminhtien)
@@ -65,15 +66,10 @@
 * [damminhtien/machine-learning-in-production-course-notes :arrow_upper_right:](https://github.com/damminhtien/machine-learning-in-production-course-notes) Machine Learning in Production
 
 ### 📚 Publications:
-* Truong, L.V., **Dam, T.M.**, Nguyen, T.A., Nguyen, L.T.T., Dinh, D.T. (2025). SOPMOA: Shared‑Open Parallelism for High‑Performance Multi‑Objective Pathfinding. In: Computational Science – ICCS 2025, LNCS 15906. doi:10.1007/978‑3‑031‑97635‑3_36 [[Paper, Poster, Implementation](https://github.com/damminhtien/SOPMOA)]
-
-* **Dam, T.M.**, Truong, L.V. A Generalized Framework for Multi-objective-based Constraint Handling Technique. Int. J. Control Autom. Syst. 22, 3240–3252 (2024). https://doi.org/10.1007/s12555-024-0445-8
-
-* **Dam, T.M.**, Truong, L.V., Bui, H.V., Nguyen, T.A., Nguyen, T.M. (2025). Efficient Radar Scheduling Using Genetic Algorithms and Stochastic Heuristic Initialization. In: Julian, V., et al. Intelligent Data Engineering and Automated Learning – IDEAL 2024. IDEAL 2024. Lecture Notes in Computer Science, vol 15346. Springer, Cham. https://doi.org/10.1007/978-3-031-77731-8_18
-
-* **T. M. Dam** et al., "Ar*: a Bounded Suboptimal Search algorithm using Conditional Node Re-expansion Policy," 2023 14th International Conference on Information and Communication Technology Convergence (ICTC), Jeju Island, Korea, Republic of, 2023, pp. 985-990, doi: 10.1109/ICTC58733.2023.10393240. 🌟 Best Paper Award (Main Track) [[Implementation](https://github.com/damminhtien/ReExpAStar)]
-
-* M. H. Le*, **M. T. Dam***, V. H. Bui, M. T. Nguyen and A. T. Nguyen, "Two level obstacles avoidance method for manned aircrafts," 2022 13th International Conference on Information and Communication Technology Convergence (ICTC), Jeju Island, Korea, Republic of, 2022, pp. 1552-1556, doi: 10.1109/ICTC55196.2022.9952388. [[Slide](https://github.com/damminhtien/ICTC2022)]
+- SOPMOA: Shared-Open Parallelism for High-Performance Multi-Objective Pathfinding, ICCS 2025.
+- A Generalized Framework for Multi-objective-based Constraint Handling Technique, IJCAS 2024.
+- Efficient Radar Scheduling Using Genetic Algorithms and Stochastic Heuristic Initialization, IDEAL 2024.
+- Ar*: A Bounded Suboptimal Search Algorithm Using Conditional Node Re-expansion Policy, ICTC 2023, Best Paper Award.
 
 ### 📰 Featuring articles in Vietnamese:
 * [NodeJS architecture concept p1](https://www.facebook.com/notes/680081102909840/)
