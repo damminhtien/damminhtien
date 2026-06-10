@@ -1,5 +1,5 @@
 ### Tien Minh Dam <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-Research Engineer working on data, search and software engineering.
+Research Engineer working on data science, search algorithms and software engineering. @HUST-19 @NUS-27.
 
 [![linked.in badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damminhtien)
 [![hackerrank badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/damminhtien)
@@ -43,9 +43,7 @@ Research Engineer working on data, search and software engineering.
 </p>
 
 
-### :sparkles: Featuring engineering projects in spare time (excluded the pin ones below):
-* [MOSP](https://github.com/damminhtien/MOSP) The #1 Multi-Objective Shortest Path (MOSP) framework <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=openjdk&logoColor=white)
-* [A*r](https://github.com/damminhtien/ReExpAStar) Weighted A* with Conditional Re-expansion (CR), NR, AR & ARA* <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/> 
+### :sparkles: Featuring engineering projects in spare time:
 * [Compensation Data Analysis](https://www.kaggle.com/damminhtienchl/compensation-analysis) Analysis compensation data from VietTech
 * [damminhtien/c-dsa :arrow_upper_right:](https://github.com/damminhtien/c-dsa) Code C/C++ examples by implement popular data-structures and algorithms, network programming, os <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white"/>
 * [damminhtien/py-dsa :arrow_upper_right:](https://github.com/damminhtien/py-dsa) Implementations of machine learning algorithms - <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" />
