@@ -1,5 +1,5 @@
 ### Tien Minh Dam <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-Research Engineer working on data science, graph algorithms and software engineering. @HUST-19 @NUS-27.
+Research Engineer working on operational research, analytics and software engineering. @HUST-19 @NUS-27.
 
 [![linked.in badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damminhtien)
 [![hackerrank badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/damminhtien)
