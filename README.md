@@ -2,9 +2,6 @@
 Research Engineer working on autonomous systems, data analytics, and software engineering. I bridge research and production with applied intuition and strong engineering practice.
 
 [![linked.in badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damminhtien)
-[![hackerrank badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/damminhtien)
-[![facebook badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/bkfateam)
-[![gmail badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damminhtienchl@gmail.com)](mailto:damminhtienchl@gmail.com)
 ![githubbadge](https://img.shields.io/github/followers/damminhtien?style=social)
 ![githubbadge](https://img.shields.io/github/stars/damminhtien?style=social)
 ![](https://komarev.com/ghpvc/?username=damminhtien&color=brightgreen&style=flat)
@@ -20,6 +17,7 @@ Research Engineer working on autonomous systems, data analytics, and software en
   />
 </p>
 
+### 🛠️ Contribution
 * [Path Planning lib ](https://github.com/damminhtien/pathplanning)
 * [Stanford CS229 - Machine Learning](https://stanford.edu/~shervine/l/vi/teaching/cs-229/cheatsheet-supervised-learning) |  [Stanford CS230 - Deep Learning](https://stanford.edu/~shervine/l/vi/teaching/cs-230/cheatsheet-convolutional-neural-networks) 
 
