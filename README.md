@@ -17,8 +17,9 @@ Research Engineer working on autonomous systems, data analytics, and software en
   />
 </p>
 
-### 🛠️ Contribution
-* [Path Planning lib ](https://github.com/damminhtien/pathplanning)
+### 🛠️ Working on
+* [MOSP lib](https://github.com/damminhtien/mosp): 
+* [Path Planning lib](https://github.com/damminhtien/pathplanning): 
 * [Stanford CS229 - Machine Learning](https://stanford.edu/~shervine/l/vi/teaching/cs-229/cheatsheet-supervised-learning) |  [Stanford CS230 - Deep Learning](https://stanford.edu/~shervine/l/vi/teaching/cs-230/cheatsheet-convolutional-neural-networks) 
 
 ### 📰 Featuring articles in Vietnamese:
